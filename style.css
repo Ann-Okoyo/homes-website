@@ -9,11 +9,18 @@
 .shirly1{
     display: flex;
     justify-content: space-between;
-    color: antiquewhite;
+    color:white
+    
+
 }
 .content{
     text-align: center;
-    padding-top: 9%;
+    padding-right: 400px;
+    padding-left: 400px;
+    padding-bottom: 120px;
+    color: white;
+    justify-content: center;
+
 }
 .shirly2{
     color: orange;
@@ -39,7 +46,7 @@
 .shirly7{
     
     color: burlywood;
-    display: flex;
+    text-align: center;
 }
 .shirly9{
     width: 200px;
@@ -62,6 +69,7 @@
     background-color:#002d3d ;
     display: flex;
     justify-content: space-between;
+    
     
 
 
@@ -128,5 +136,36 @@
 }
 .rich{
     text-align: center;
+}
+.wakah{
+    text-align: center;
+}
+.stylish{
+    padding: 12px;
+    color: black;
+    color: #ffac7d;
+}
+.hazel{
+    color:white;
+    border-radius: 2px;
+    background-color:#ffac7d ;
+}
+.omar{
+    text-align: center;
+}
+#jon{
+    color: orange;
+
+}
+#bee ul li{
+    list-style: none;
+    display: inline-block;
+    justify-content: right;
+    color: bisque;
+    padding: 0px 15px 0px;
+
+}
+.line{
+    color: #ffac7d;
 }
     
